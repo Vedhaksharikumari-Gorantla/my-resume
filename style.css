@@ -1,0 +1,36 @@
+body{
+    font-family:'Times New Roman', Times, serif ;
+}
+
+
+
+
+p{
+    color:rgb(135, 51, 214);
+}
+h1{
+    color:blueviolet
+}
+div{
+    background-color:lightblue;
+    padding:10px;
+    border-radius:5px
+}
+#clg{
+    color:blue;
+}
+.Cat{
+    color:aquamarine
+}
+.size{
+    font-size:60px;
+    font-weight: 200;
+}
+img{
+    width:200px;
+    height:200px;
+    float:right;
+    border-radius: 90%;
+    opacity: 50%;
+    position:sticky;
+}
